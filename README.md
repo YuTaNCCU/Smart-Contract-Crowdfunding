@@ -22,3 +22,6 @@ Smart contract: a charity crowdfunding contract with many stages
 6. 帳戶分類：私人帳戶：只能由個人私鑰控制；合約帳戶：私人帳戶發布後，由程式控制。
 7. P2P 網絡：選擇「結構化 P2P 網絡」，並使用演算法 (e.g. 分佈式哈希表) 優化傳遞、定位的速度。
 8. 不同類型的客戶：從節點的功能—網絡路由、錢包、區塊鏈資料庫來看，客戶至少要有網絡路由功能，若想交易則要有錢包、可若想投票則要儲存區塊鏈資料庫。
+
+## 上鏈：使用Remix (Solidity IDE)，下圖為執行此智能合約的截圖：
+![](https://github.com/YuTaNCCU/Smart-Contract-Crowdfunding/blob/master/img/remix.PNG)
